@@ -16,7 +16,7 @@ Item.instantiate_from_csv()
 
 # print (Item.is_integer(7.0))
 
-phone1 = Phone("HuaweiPhonev10",500,5,1)
+
 
 print(Item.all)
 print(Phone.all)
